@@ -1,2 +1,2 @@
 # Milestone-1-
-Milestone-1 project code
+Milestone-1 project code: Tower of Hanoi
